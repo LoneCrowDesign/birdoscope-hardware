@@ -1,0 +1,39 @@
+# Build output and toolchain
+.pio
+bin
+compile_commands.json
+
+# Python venv
+.venv
+.venvs
+__pycache__/
+*.pyc
+
+# local config
+.vscode
+.claude
+.cache
+.specify
+CLAUDE.md
+
+# Swap and backup files
+*.swp
+*.swo
+*~
+.*.kate-swp
+.#*
+\#*#
+*.bak
+*.FCBak
+
+# Working docs
+docs/todo.md
+.old
+working
+*.FCStd
+
+
+
+# OS noise
+.DS_Store
+Thumbs.db
