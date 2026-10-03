@@ -32,8 +32,9 @@ docs/todo.md
 working
 *.FCStd
 
-
-
 # OS noise
 .DS_Store
 Thumbs.db
+
+# Generic ignore
+z_*
